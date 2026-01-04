@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack MERN Projects 🌱 I’m currently learning Advanced React & Backend Architecture 👯 I’m looking to collaborate on Open Source Web Projects 🥅 2025 Goals: Build and deploy 21 unique web applications ⚡ Fun fact: I am building my own AI assistant named ARU!
+🔭 I’m currently working on Full Stack MERN Projects 🌱 I’m currently learning Advanced React & Backend Architecture 👯 I’m looking to collaborate on Open Source Web Projects 🥅 2025 Goals: Building  21 unique web applications ⚡ Fun fact: I am building my own AI assistant named ARU!
 
 
 ## 🌐 Socials:
